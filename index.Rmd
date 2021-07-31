@@ -225,8 +225,12 @@ class: top, left
 ---
 class: top, center
 
+
 # Serviços de Regulação
+
+.left[
 ## Englobam as funções ecossistêmicas que regulam as condições ambientais apropriadas para a existência e bem estar humano.
+
 
 - Prevenção de erosão;
 
@@ -234,14 +238,15 @@ class: top, center
 
 - Controle de pragas
 
-- Amortecimento de eventos climáticos extremos
+- Amortecimento de eventos climáticos extremos]
 
-<img width="40%" src="http://s2.glbimg.com/IeH1XSroIm2nLkHJrsR2SRAJICw=/620x465/s.glbimg.com/jo/g1/f/original/2013/09/17/mangue_1.jpg"/>
-<img width="40%" src="http://3.bp.blogspot.com/-G0ymDasfxpQ/U0k5AiTxK8I/AAAAAAAAAMM/zSv_AnsjWeE/s1600/mangue+5.jpg"/>
+<img width="38%" src="http://s2.glbimg.com/IeH1XSroIm2nLkHJrsR2SRAJICw=/620x465/s.glbimg.com/jo/g1/f/original/2013/09/17/mangue_1.jpg"/>
+<img width="38%" src="http://3.bp.blogspot.com/-G0ymDasfxpQ/U0k5AiTxK8I/AAAAAAAAAMM/zSv_AnsjWeE/s1600/mangue+5.jpg"/>
 
 ---
-class: top, left
+class: top, center
 
+.left[
 # Serviço de Suporte
 ## São serviços necessários para que os outros serviços existam.
 
@@ -252,9 +257,9 @@ class: top, left
 - Produção de oxigênio;
 
 - Polinização
-
-<img width="42%" src="https://www.coladaweb.com/wp-content/uploads/2017/09/20170906-polinizacao.jpg"/>
-<img width="50%" src="https://revistapesquisa.fapesp.br/wp-content/uploads/2019/11/018-029_capa-amazonia-1_285-5-1140px.jpg"/>
+]
+<img width="40%" src="https://www.coladaweb.com/wp-content/uploads/2017/09/20170906-polinizacao.jpg"/>
+<img width="45%" src="https://revistapesquisa.fapesp.br/wp-content/uploads/2019/11/018-029_capa-amazonia-1_285-5-1140px.jpg"/>
 
 ---
 class: top, left
@@ -262,11 +267,17 @@ class: top, left
 # Valoração dos serviços ecossistêmicos
 
 - Valoração: Estimativa da importância de algo (Constanza et al, 2017);
+
 --
+
 - Valor ecológico: Avaliação *não monetária* da integridade, saúde e ou resiliência de um ecossistema;
+
 --
+
 - Valor intrínseco: Valor que *independe da utilidade*;
+
 --
+
 - Valor econômico: Relacionado com *utilidade e bem estar*. **Não necessariamente $**
 
 <img width="40%" src="https://segredosdomundo.r7.com/wp-content/uploads/2020/11/diamante-conheca-8-dicas-de-como-diferenciar-um-verdadeiro-do-falso-1.jpg"/>
@@ -280,7 +291,6 @@ class: top, center
 
 <img width="50%" src="/img/coscieme_paper.png"/>
 
-<img width="35%" src="https://ars.els-cdn.com/content/image/1-s2.0-S2212041615300516-fx1.jpg"/> 
 <img width="32%" src="/img/coscieme_table.png"/>
 
 
@@ -327,7 +337,16 @@ class: top, center
 
 ---
 class: top, center
+## Soluções baseadas na Natureza para as cidades brasileiras: 
 
+- Promover intervenções inspiradas em ecossistemas saudáveis para enfrentar desafios urgentes da sociedade, especialmente nas grandes metrópoles.
+
+<img width="55%" src="https://americadosul.iclei.org/wp-content/uploads/sites/78/2021/06/londrina.jpeg"/>
+
+- Soluções Baseadas na Natureza (SBN) nas cidades brasileiras: https://www.bpbes.net.br/organizacoes-se-unem-para-estimular-uso-de-solucoes-baseadas-na-natureza-no-brasil/
+
+
+---
 ## Questão para reflexão:
 - Será que a tecnologia dá conta de suprir todas as nossas necessidades e substituir as funções vitais dos sistemas naturais?
 
@@ -350,3 +369,8 @@ class: top, left
 and people: https://ipbes.net/sites/default/files/downloads/pdf/Diaz_et_al._2015_IPBESConceptualFramework.pdf
 
 - Lutzemberger Forever Gaia - Documentário completo: https://www.youtube.com/watch?v=-qaQE18VNgc
+
+- Cutural ecosystem services: The inspirational value of ecosystems in popular music: https://sci-hub.se/https://doi.org/10.1016/j.ecoser.2015.10.024
+
+- Millenium Ecosystem Assessment: https://www.millenniumassessment.org/en/index.html
+
