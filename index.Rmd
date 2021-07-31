@@ -173,7 +173,7 @@ class: top, center
 
 <img width="32%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Alfred_Jacob_Miller_-_Hunting_Buffalo_-_Walters_371940190.jpg/1024px-Alfred_Jacob_Miller_-_Hunting_Buffalo_-_Walters_371940190.jpg"/>
 <img width="32%" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Bison_skull_pile-restored.jpg"/>
-<img width="32%" src="http://www.blogblog.com/1kt/watermark/body_background_navigator.png"/>
+<img width="23%" src="https://www.blogblog.com/1kt/watermark/body_background_navigator.png"/>
 
 ---
 class: top, center
