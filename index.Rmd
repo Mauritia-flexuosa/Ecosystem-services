@@ -116,7 +116,7 @@ class: top, center
 
 - Acessa as consequencias das mudanças nos ecossistemas para o bem estar humano e qualidade de vida. (1360 especialistas em todo o mundo)
 
-```{r echo=FALSE, out.width="62%", fig.align='center'}
+```{r echo=FALSE, out.width="59%", fig.align='center'}
 knitr::include_graphics("./img/gene-fig-4.3-matrix.jpg")
 ```
 
@@ -129,14 +129,6 @@ class: top, left
 
 ```{r echo=FALSE, out.width="57%", fig.align='center'}
 knitr::include_graphics("img/gene-fig-1.2-biomes.jpg")
-```
-
----
-class: top, left
-# Relação da natureza com o bem estar humano
-
-```{r figureES, include=TRUE, echo=FALSE, out.width="78%", fig.align='center', fig.pos='bottom'}
-knitr::include_graphics("https://www.researchgate.net/publication/257744152/figure/fig3/AS:267815852703757@1440863683207/Millennium-ecosystem-assessment-MA-overview-diagram.png")
 ```
 
 ---
@@ -158,6 +150,15 @@ class: top, center
 ```{r echo=FALSE, out.width="67%", fig.align='center'}
 knitr::include_graphics("https://images.slideplayer.com/24/6937324/slides/slide_6.jpg")
 ```
+
+---
+class: top, left
+# Relação da natureza com o bem estar humano
+
+```{r figureES, include=TRUE, echo=FALSE, out.width="78%", fig.align='center', fig.pos='bottom'}
+knitr::include_graphics("https://www.researchgate.net/publication/257744152/figure/fig3/AS:267815852703757@1440863683207/Millennium-ecosystem-assessment-MA-overview-diagram.png")
+```
+
 ---
 class: top, center
 
@@ -177,27 +178,9 @@ class: top, center
 
 ---
 class: top, center
-# IPBES - Plataforma intergovernamental para a biodiversidade e serviços ecossistêmicos
+# CLASSIFICAÇÃO DOS SEs
 
-- Criada em 2012 com a missão de estreitar a relação da ciência com as políticas de conservação da biodiversidade para o bem estar humano e desenvolvimento sustentável.
-
-<img width="62%" src="https://www.researchgate.net/profile/Kamaljit-Sangha-2/publication/320124552/figure/fig2/AS:544124478935040@1506740793951/PBES-conceptual-framework-Source-IPBES-2016-and-Diaz-et-al-2015-There-are-six-main.png"/>
-
----
-class: top, center
-
-# BPBES: Plataforma brasileira para a biodiversidade e serviços ecossistêmicos.
-
-- Adota conceitos, diretrizes e definições do IPBES para serem aplicados em diagnósticos em âmbito nacional.
-
-- Orientação de políticas de conservação onde há conhecimento consolidado, com menor risco de incertezas. 
-
-<img width="62%" src="https://www.bpbes.net.br/wp-content/uploads/2017/08/logo-BPBES.png"/>
-
----
-class: top, center
-
-# Serviços de provisão
+## Serviços de provisão
 
 ### Engloba elementos da natureza consumidos pelos seres humanos.
 
@@ -217,9 +200,11 @@ class: top, center
 <img width="32%" src="https://publisher-publish.s3.eu-central-1.amazonaws.com/pb-brasil247/swp/jtjeq9/media/20180710140756_d0ea8ca8e15ac03c9eb453c72187003213c8d1694e2ea03683ab8e2e43777058.jpeg"/>
 
 ---
-class: top, left
+class: top, center
 
 # Serviços culturais
+
+.left[
 ## Benefícios não materiais que os ecossistemas fornecem.
 
 - Recreação;
@@ -228,7 +213,7 @@ class: top, left
 
 - Inspiração artística;
 
-- Inspiração espiritual.
+- Inspiração espiritual.]
 
 .center[
 <img width="32%" src="https://media-cdn.tripadvisor.com/media/photo-s/0c/3c/8a/4a/contemplando-a-paisagem.jpg"/>
@@ -238,7 +223,6 @@ class: top, left
 
 ---
 class: top, center
-
 
 # Serviços de Regulação
 
@@ -260,8 +244,10 @@ class: top, center
 ---
 class: top, center
 
-.left[
+
 # Serviço de Suporte
+
+.left[
 ## São serviços necessários para que os outros serviços existam.
 
 - Formação dos solos;
@@ -274,6 +260,25 @@ class: top, center
 ]
 <img width="40%" src="https://www.coladaweb.com/wp-content/uploads/2017/09/20170906-polinizacao.jpg"/>
 <img width="45%" src="https://revistapesquisa.fapesp.br/wp-content/uploads/2019/11/018-029_capa-amazonia-1_285-5-1140px.jpg"/>
+
+---
+class: top, center
+# IPBES - Plataforma intergovernamental para a biodiversidade e serviços ecossistêmicos
+
+- Criada em 2012 com a missão de estreitar a relação da ciência com as políticas de conservação da biodiversidade para o bem estar humano e desenvolvimento sustentável.
+
+<img width="62%" src="https://www.researchgate.net/profile/Kamaljit-Sangha-2/publication/320124552/figure/fig2/AS:544124478935040@1506740793951/PBES-conceptual-framework-Source-IPBES-2016-and-Diaz-et-al-2015-There-are-six-main.png"/>
+
+---
+class: top, center
+
+# BPBES: Plataforma brasileira para a biodiversidade e serviços ecossistêmicos.
+
+- Adota conceitos, diretrizes e definições do IPBES para serem aplicados em diagnósticos em âmbito nacional.
+
+- Orientação de políticas de conservação onde há conhecimento consolidado, com menor risco de incertezas. 
+
+<img width="62%" src="https://www.bpbes.net.br/wp-content/uploads/2017/08/logo-BPBES.png"/>
 
 ---
 class: top, left
