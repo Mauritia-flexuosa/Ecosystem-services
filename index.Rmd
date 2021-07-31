@@ -79,6 +79,53 @@ class: top, center
 knitr::include_graphics("https://static.todamateria.com.br/upload/fa/to/fatoresbioticoseabioticos.jpg")
 ```
 
+---
+class: top, center
+
+# Benefícios aos seres humanos!
+### Mas de onde veio essa ideia?
+
+- A ideia de SE surgiu na década de 1970, com o nome de *"serviços da natureza"* em um [artigo publicado por Walter Westman, na Science]("https://sci-hub.se/https://science.sciencemag.org/content/197/4307/960"), em 1977.
+
+<img width="52%" src="https://www.twincities.com/wp-content/uploads/2015/11/20130213__walterwestman.jpg?w=427"/>
+
+---
+class: top, left
+
+# Reconhecimento da problemática ambiental
+
+### Serviços ecossistêmicos dependem das interações que ocorrem nos ecossistemas íntegros.
+
+- Ecologia + Economia
+
+- Manifesto ecológico Brasileiro
+
+.center[
+<img width="35%" src="https://static.dw.com/image/434918_4.jpg"/>
+<img width="35%" src="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_0e9766bdfa76b54820e5980e991cf429ff873674.jpg"/>
+]
+
+
+---
+class: top, center
+
+# Millenium Ecosystem assessment
+
+- Acessa as consequencias das mudanças nos ecossistemas para o bem estar humano e qualidade de vida. (1360 especialistas em todo o mundo)
+
+```{r echo=FALSE, out.width="62%", fig.align='center'}
+knitr::include_graphics("./img/gene-fig-4.3-matrix.jpg")
+```
+
+[Millennium Ecosystem Assessment: Ecosystems and human well-being: a framework for assessment]("https://library.wur.nl/WebQuery/wurpubs/326575")
+
+---
+class: top, left
+# Relação da natureza com o bem estar humano
+
+```{r figureES, include=TRUE, echo=FALSE, out.width="78%", fig.align='center', fig.pos='bottom'}
+knitr::include_graphics("https://www.researchgate.net/publication/257744152/figure/fig3/AS:267815852703757@1440863683207/Millennium-ecosystem-assessment-MA-overview-diagram.png")
+```
 
 ---
 class: top, center
@@ -99,37 +146,39 @@ class: top, center
 ```{r echo=FALSE, out.width="67%", fig.align='center'}
 knitr::include_graphics("https://images.slideplayer.com/24/6937324/slides/slide_6.jpg")
 ```
+---
+class: top, center
 
-[Millennium Ecosystem Assessment: Ecosystems and human well-being: a framework for assessment]("https://library.wur.nl/WebQuery/wurpubs/326575")
+# No Brasil: 
+
+- Lei Federal 14.119/21
+
+- Contribuição da Natureza para as pessoas (BPBES)
+
+- Contribuição da Natureza para as pessoas: Consideração da diversidade de percepções e modelos culturais e sociais.
+
+<img width="32%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Alfred_Jacob_Miller_-_Hunting_Buffalo_-_Walters_371940190.jpg/1024px-Alfred_Jacob_Miller_-_Hunting_Buffalo_-_Walters_371940190.jpg"/>
+<img width="32%" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Bison_skull_pile-restored.jpg"/>
+<img width="32%" src="http://www.blogblog.com/1kt/watermark/body_background_navigator.png"/>
+
+---
+class: top, center
+# IPBES - Plataforma intergovernamental para a biodiversidade e serviços ecossistêmicos
+
+- Criada em 2012 com a missão de estreitar a relação da ciência com as políticas de conservação da biodiversidade para o bem estar humano e desenvolvimento sustentável.
+
+<img width="62%" src="https://www.researchgate.net/profile/Kamaljit-Sangha-2/publication/320124552/figure/fig2/AS:544124478935040@1506740793951/PBES-conceptual-framework-Source-IPBES-2016-and-Diaz-et-al-2015-There-are-six-main.png"/>
 
 ---
 class: top, center
 
-# Mas de onde veio esse conceito?
+# BPBES: Plataforma brasileira para a biodiversidade e serviços ecossistêmicos.
 
-- A ideia de SE surgiu na década de 1970, com o nome de serviços da natureza em um [artigo publicado por Walter Westman, na Science]("https://sci-hub.se/https://science.sciencemag.org/content/197/4307/960"), em 1977.
+- Adota conceitos, diretrizes e definições do IPBES para serem aplicados em diagnósticos em âmbito nacional.
 
+- Orientação de políticas de conservação onde há conhecimento consolidado, com menor risco de incertezas. 
 
-<img width="52%" src="https://www.twincities.com/wp-content/uploads/2015/11/20130213__walterwestman.jpg?w=427"/>
-
-
-
----
-class: top, left
-# Relação da natureza com o bem estar humano
-
-```{r figureES, include=TRUE, echo=FALSE, out.width="75%", fig.align='center', fig.pos='bottom'}
-knitr::include_graphics("https://www.researchgate.net/publication/257744152/figure/fig3/AS:267815852703757@1440863683207/Millennium-ecosystem-assessment-MA-overview-diagram.png")
-```
-
-
-[Bem estar humano ligado com degradação ambiental]("https://e-nnw.com/continued-degradation-of-the-environment-increasing-the-likelihood-of-diseases-spreading-from-animals-to-humans-un-biodiversity-report/")
-
-
-[IPBES - Intergovernmental Plataform on Biodiversity and Ecosystem Services ]("https://ipbes.net/")
-
-[The IPBES Conceptual Framework — connecting nature
-and people]("https://ipbes.net/sites/default/files/downloads/pdf/Diaz_et_al._2015_IPBESConceptualFramework.pdf")
+<img width="62%" src="https://www.bpbes.net.br/wp-content/uploads/2017/08/logo-BPBES.png"/>
 
 ---
 class: top, center
@@ -148,12 +197,13 @@ class: top, center
 
 - Água potável
 
+
 <img width="32%" src="https://static.escolakids.uol.com.br/conteudo_legenda/ebb317cb12e9140b62a62a18ce5b9a55.jpg"/>
 <img width="32%" src="https://i1.wp.com/blog.observagastronomia.com.br/wp-content/uploads/2021/06/Captura-de-Tela-2021-06-25-as-11.21.51.png?resize=691%2C500"/>
 <img width="32%" src="https://publisher-publish.s3.eu-central-1.amazonaws.com/pb-brasil247/swp/jtjeq9/media/20180710140756_d0ea8ca8e15ac03c9eb453c72187003213c8d1694e2ea03683ab8e2e43777058.jpeg"/>
 
 ---
-<!-- class: top, center -->
+class: top, left
 
 # Serviços culturais
 ## Benefícios não materiais que os ecossistemas fornecem.
@@ -166,7 +216,12 @@ class: top, center
 
 - Inspiração espiritual.
 
-<img width="42%" src="https://media-cdn.tripadvisor.com/media/photo-s/0c/3c/8a/4a/contemplando-a-paisagem.jpg"/>
+.center[
+<img width="32%" src="https://media-cdn.tripadvisor.com/media/photo-s/0c/3c/8a/4a/contemplando-a-paisagem.jpg"/>
+<img width="32%" src="https://oempregoeseucom.files.wordpress.com/2020/05/boleadeiras-2.jpg"/>
+<img width="30%" src="https://www.dicionarioinformal.com.br/image/b/1769.jpg"/>
+]
+
 ---
 class: top, center
 
@@ -181,9 +236,8 @@ class: top, center
 
 - Amortecimento de eventos climáticos extremos
 
-<img width="42%" src="http://s2.glbimg.com/IeH1XSroIm2nLkHJrsR2SRAJICw=/620x465/s.glbimg.com/jo/g1/f/original/2013/09/17/mangue_1.jpg"/>
-<img width="42%" src="http://3.bp.blogspot.com/-G0ymDasfxpQ/U0k5AiTxK8I/AAAAAAAAAMM/zSv_AnsjWeE/s1600/mangue+5.jpg"/>
-
+<img width="40%" src="http://s2.glbimg.com/IeH1XSroIm2nLkHJrsR2SRAJICw=/620x465/s.glbimg.com/jo/g1/f/original/2013/09/17/mangue_1.jpg"/>
+<img width="40%" src="http://3.bp.blogspot.com/-G0ymDasfxpQ/U0k5AiTxK8I/AAAAAAAAAMM/zSv_AnsjWeE/s1600/mangue+5.jpg"/>
 
 ---
 class: top, left
@@ -203,38 +257,21 @@ class: top, left
 <img width="50%" src="https://revistapesquisa.fapesp.br/wp-content/uploads/2019/11/018-029_capa-amazonia-1_285-5-1140px.jpg"/>
 
 ---
-class: top, center
-
----
-# Reconhecimento da problemática ambiental
-
-<img width="52%" src="https://static.dw.com/image/434918_4.jpg"/>
-
--
-### Serviços ecossistêmicos dependem das interações que ocorrem nos ecossistemas íntegros.
-
---
-
-## Questão para reflexão:
-- Será que a tecnologia dá conta de suprir todas as nossas necessidades e substituir as funções vitais dos sistemas naturais?
-
-<img width="35%" src="https://thumbs.dreamstime.com/z/natureza-e-tecnologia-10914487.jpg"/>
-
----
 class: top, left
 
 # Valoração dos serviços ecossistêmicos
 
 - Valoração: Estimativa da importância de algo (Constanza et al, 2017);
-
+--
 - Valor ecológico: Avaliação *não monetária* da integridade, saúde e ou resiliência de um ecossistema;
-
+--
 - Valor intrínseco: Valor que *independe da utilidade*;
-
+--
 - Valor econômico: Relacionado com *utilidade e bem estar*. **Não necessariamente $**
 
 <img width="40%" src="https://segredosdomundo.r7.com/wp-content/uploads/2020/11/diamante-conheca-8-dicas-de-como-diferenciar-um-verdadeiro-do-falso-1.jpg"/>
 <img width="40%" src="https://portalwp.s3.amazonaws.com/wp-content/uploads/20190219162129/shutterstock_109380863.jpg"/>
+
 
 ---
 class: top, center
@@ -263,6 +300,7 @@ class: top, left
 **Serviços ecossistêmicos:** benefícios relevantes para a sociedade gerados pelos ecossistemas, em termos de manutenção, recuperação ou melhoria das condições ambientais.
 
 **Pagamento por serviços ambientais:** transação de natureza voluntária, mediante a qual um *pagador de serviços ambientais* transfere a um provedor desses serviços recursos financeiros ou outra forma de remuneração, nas condições acertadas, respeitadas as disposições legais e regulamentares pertinentes
+
 ---
 class: top, center
 
@@ -290,7 +328,25 @@ class: top, center
 ---
 class: top, center
 
+## Questão para reflexão:
+- Será que a tecnologia dá conta de suprir todas as nossas necessidades e substituir as funções vitais dos sistemas naturais?
+
+<img width="55%" src="https://thumbs.dreamstime.com/z/natureza-e-tecnologia-10914487.jpg"/>
+
+---
+class: top, left
+
 # Referências
 
+- Artigo de Walter Westman (1977) - Science: https://sci-hub.se/https://science.sciencemag.org/content/197/4307/960
 
+- Brazilian Platform on Biodiversity and Ecosystem Services: https://www.bpbes.net.br/
 
+- Continued degradation of the environment increasing the likelihood of diseases spreading from animals to humans: UN Biodiversity Report - https://e-nnw.com/continued-degradation-of-the-environment-increasing-the-likelihood-of-diseases-spreading-from-animals-to-humans-un-biodiversity-report
+
+- IPBES - Intergovernmental Plataform on Biodiversity and Ecosystem Services: https://ipbes.net/
+
+- The IPBES Conceptual Framework — connecting nature
+and people: https://ipbes.net/sites/default/files/downloads/pdf/Diaz_et_al._2015_IPBESConceptualFramework.pdf
+
+- Lutzemberger Forever Gaia - Documentário completo: https://www.youtube.com/watch?v=-qaQE18VNgc
