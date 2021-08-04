@@ -90,7 +90,6 @@ class: top, center
 ```{r, include=TRUE, echo=FALSE, out.width="35%", fig.align='center'}
 knitr::include_graphics("https://static.todamateria.com.br/upload/fa/to/fatoresbioticoseabioticos.jpg")
 ```
-]
 
 - Qualitative stability in model ecosystems - Robert May (1973) - *Ecology*
 
@@ -219,6 +218,7 @@ class: top, center
 
 ### Engloba elementos da natureza consumidos pelos seres humanos.
 
+.left[
 - Alimentos;
 
 - Matérias primas;
@@ -228,7 +228,7 @@ class: top, center
 - Recursos medicinais;
 
 - Água potável
-
+]
 
 <img width="32%" src="https://static.escolakids.uol.com.br/conteudo_legenda/ebb317cb12e9140b62a62a18ce5b9a55.jpg"/>
 <img width="32%" src="https://i1.wp.com/blog.observagastronomia.com.br/wp-content/uploads/2021/06/Captura-de-Tela-2021-06-25-as-11.21.51.png?resize=691%2C500"/>
@@ -254,7 +254,8 @@ class: top, center
 
 - Inspiração artística;
 
-- Inspiração espiritual.]
+- Inspiração espiritual.
+]
 
 .center[
 <img width="32%" src="https://media-cdn.tripadvisor.com/media/photo-s/0c/3c/8a/4a/contemplando-a-paisagem.jpg"/>
@@ -462,7 +463,7 @@ class: top, center
 
 # Desserviços ecossistêmicos
 ## São impactos causados ao bem estar humano por elementos e processos naturais.
-
+.left[
 - Custo de manutenção de áreas urbanas;
 
 - Pragas em plantações;
@@ -470,6 +471,7 @@ class: top, center
 - Doenças;
 
 - Eventos climáticos extremos...
+]
 
 <img width="40%" src="https://brasil.un.org/sites/default/files/styles/featured_image/public/2020-01/enchente-e1578324722359.jpg?itok=pd82RNTi"/>
 <img width="40%" src="https://images2.portalon.com.br/wp-content/uploads/2020/06/2020-06-03_arborizacao_segura_2wwwitatibaspgovbrwwwitatibaspgovbr_thumb_medium555_0-1591280527.jpg"/>
@@ -560,5 +562,7 @@ Wall, D. H. ed. Sustaining Biodiversity and Ecosystem Services in Soils and Sedi
 - marciobcure@gmail.com
 
 .center[
+
 ### Até a aula que vem. Fiquem bem!
+
 ]
