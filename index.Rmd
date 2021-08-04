@@ -72,7 +72,7 @@ class: top, center
 
 # Resgatando conceitos
 
-pull-left[
+.left[
 
 1. Ecosssitema;
 
@@ -559,4 +559,6 @@ Wall, D. H. ed. Sustaining Biodiversity and Ecosystem Services in Soils and Sedi
 
 - marciobcure@gmail.com
 
+.center[
 ### Até a aula que vem. Fiquem bem!
+]
