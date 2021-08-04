@@ -153,15 +153,6 @@ Millennium Ecosystem Assessment: Ecosystems and human well-being: a framework fo
 O MEA foi criado com o objetivo de entender as consequencias das mudanças no ecossisema para o bem estar humano, visando a qualidade de vida. Foi uma iniciativa de produção e compilação de informações com a participação de mais de 1360 colaboradores.
 
 ---
-class: top, left
-
-# Mudanças e suas tendências
-
-```{r echo=FALSE, out.width="57%", fig.align='center'}
-knitr::include_graphics("img/gene-fig-1.2-biomes.jpg")
-```
-
----
 class: top, center
 
 # O que são serviços ecossistêmicos (SE)
@@ -409,8 +400,10 @@ class: top, left
 
 - Dificuldade de valorar determinados serviços.
 
+**Estudo estima em R$ 43 bilhões a contribuição econômica dos polinizadores**
+
 .center[
-<img width="60%" src="https://miro.medium.com/max/724/1*G_neB4Phd20qPdTYo2JmXA.jpeg"/>]
+<img width="60%" src="https://s2.glbimg.com/zvIhEkvf8ghydW4ltlqYZY1LCaM=/620x350/e.glbimg.com/og/ed/f/original/2018/11/23/41401193_2202020250087763_7573187623968047104_n.jpg"/>]
 
 ???
 
