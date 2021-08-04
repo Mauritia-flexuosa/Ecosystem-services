@@ -85,7 +85,7 @@ class: top, center
 5. Propriedades emergentes.
 
 ]
-
+ 
 ```{r, include=TRUE, echo=FALSE, out.width="35%", fig.align='center'}
 knitr::include_graphics("https://static.todamateria.com.br/upload/fa/to/fatoresbioticoseabioticos.jpg")
 ```
