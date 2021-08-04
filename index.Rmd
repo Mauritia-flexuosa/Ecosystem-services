@@ -13,6 +13,7 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+      
 ---
 class: top, center
 
@@ -59,6 +60,13 @@ xaringanExtra::use_broadcast()
 
 <img width="32%" src="https://conhecimentocientifico.r7.com/wp-content/uploads/2019/07/polinizacao-formas-tipos-agentes-polinizadores-autopolinizacao-1.jpg"/>
 
+???
+
+Nesta aula abordaremos o conceito de serviços ecossistêmicos (SE).
+
+Para isso faremos o resgate de alguns conceitos e ideias da aula passada sobre a Estrutura e Funcionamento dos Ecossistemas.
+Apresentaremos a definição de serviços ecossistêmicos (SE) e a forma como são classificados. A seguir falaremos de algumas aplicações do conceito de SE, como valoração dos SE e ainda pagamento por serviços ambientais (PSA). Falaremos sobre os desserviços ecossistêmicos que é um conceito derivado de SE e que pode ser um pouco contraditório. Por fim, haverá uma atividade de fixação para ser realizada durante a semana e entregue na data da próxima aula via moodle. Esta atividade também terá caráter avaliativo e contribuirá com a nota final do aluno na disciplina.
+
 ---
 class: top, center
 
@@ -82,15 +90,27 @@ class: top, center
 knitr::include_graphics("https://static.todamateria.com.br/upload/fa/to/fatoresbioticoseabioticos.jpg")
 ```
 
+???
+
+Na aula passada, vimos que ecossistemas são um nível de organização ecológico dinâmico e complexo. Ele é complexo porque é formado por múltiplos elementos bióticos e abióticos (i.e. seres vivos e elementos não vivos) que interagem entre si. É dinâmico porque muda com o tempo. Estas interações são determinadas pelos atributos funcionais, que são características morfológicas, fisiológicas e comportamentais. Tamanho da nadadeira de um peixe é um atributo relacionado com sua mobilidade, por exemplo. A mobilidade vai determinar o tipo de alimento que o peixe vai conseguir capturar. Atributos fisiológicos também são importantes, como o metabolismo de substâncias tóxicas por animais e por plantas, que serão determinantes tanto para a sobrevivência de determinada espécie como para a recuperação de um ambiente degradado. Sendo assim, diferentes atributos vão permitir diferentes interações com o ambiente e com os outros seres vivos.
+
+Da mesma forma que as condições do ambiente determinam a composição de atributos das espécies que formam um ecossistema, a composição de atributos também determina as condições abióticas locais. Por exemplo, as árvores são como bombas d'água naturais. Através de seus vasos, que vão das raízes até as folhas, elas tiram a água do solo e jogam para a atmosfera. É um processo passivo que depende basicamente da diferença de pressão entre as raízes e a superfície das folhas. Como as árvores não gastam energia, a eficiência no uso da água é bem baixa. Elas aproveitam, aproximadamente 5 % da água que elas retiram do solo, o resto é perdido para a atmosfera. A água "perdida" para a atmosfera será reciclada através de chuvas locais ou regionais e, parte dela, será reaproveitada pelas plantas. Sendo assim, os produtos da interação entre o solo, a atmosfera e as plantas vão depender de características das plantas, como por exemplo tamanho das folhas, espessura dos vasos, altura das árvores, entre outros. Desta forma, um local com mais espécies também terá uma maior diversidade de atributos funcionais, o que por sua vez permitirá uma maior interação entre os elementos do ecossistema e garantirá maior eficiência no aproveitamento dos recursos que culminará em maior variedade de funções ecossistêmicas e em mecanismos de auto regulação.
+
 ---
 class: top, center
 
 # Benefícios aos seres humanos!
 ### Mas de onde veio essa ideia?
 
-- A ideia de SE surgiu na década de 1970, com o nome de *"serviços da natureza"* em um [artigo publicado por Walter Westman, na Science]("https://sci-hub.se/https://science.sciencemag.org/content/197/4307/960"), em 1977.
+- A ideia de SE surgiu na década de 1970, com o nome de *"serviços da natureza"* em um artigo publicado por Walter Westman, na Science, em 1977. https://sci-hub.se/https://science.sciencemag.org/content/197/4307/960
 
 <img width="52%" src="https://www.twincities.com/wp-content/uploads/2015/11/20130213__walterwestman.jpg?w=427"/>
+
+???
+
+O ser humano é um ser natural, ou seja, ele é um ser que faz parte da natureza. Assim como os outros animais, ele depende das condições e recursos naturais para sobreviver. Estas condições e recursos como água potável, comida, oxigênio, solos férteis, clima regulado, ciclos biogeoquímicos balanceados, etc, são as funções do ecossistema, frutos das interações. Os chamados SERVIÇOS ECOSSISTÊMICOS são benefícios diretos e indiretos prestados ao ser humano pela natureza e são fundamentais para sobrevivência e cultura humana. Segundo o MEA (2005), os SE estão intimamente relacionados com o bem estar humano e com a qualidade de vida. Há também grande discussão em relação ao termo serviços ambientais. Muitos autores costumam usar como sinônimo de serviços ecossistêmicos. Entretanto o MMA (2021) define serviços ambientais como ações por parte dos seres humanos para melhorar os serviços ecossitêmicos. É sempre bom atentar para definições.
+
+A ideia de SE surgiu na década de 1970, com o nome de serviços da natureza em um artigo publicado por Walter Westman, na Science, em 1977.
 
 ---
 class: top, left
@@ -108,6 +128,9 @@ class: top, left
 <img width="35%" src="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_0e9766bdfa76b54820e5980e991cf429ff873674.jpg"/>
 ]
 
+???
+
+Entretanto, a ideia de que a natureza suporta o bem estar humano já vinha sendo discutida há décadas sob o olhar utilitarista dos recursos naturais, principalmente após a segunda metade do século XX em que se intensificaram os impactos ambientais e os danos ficaram mais evidentes. No mesmo período, com o avanço da ciência ecológica, especialmente de estudos de ecossistemas, o valor intrínseco dos elementos da natureza e a sua importância para o ser humano também ganhou visibilidade. O conceito de serviços ecossistêmicos tem sua origem em duas disciplinas irmãs: economia e ecologia. As duas possuem o mesmo prefixo "eco" ou, do Grego "oikos", que significa "casa". Enquanto ecologia usa o sufixo "logia", que significa "estudo" ou "conhecimento", a economia usa "nomia", que quer dizer "organização" ou "gestão". Dessa forma, antes de gerir a casa, devemos conhecê-la. Gerir sem conhecer é arriscado, é como andar no escuro.
 
 ---
 class: top, center
@@ -120,7 +143,11 @@ class: top, center
 knitr::include_graphics("./img/gene-fig-4.3-matrix.jpg")
 ```
 
-[Millennium Ecosystem Assessment: Ecosystems and human well-being: a framework for assessment]("https://library.wur.nl/WebQuery/wurpubs/326575")
+Millennium Ecosystem Assessment: Ecosystems and human well-being: a framework for assessment: https://library.wur.nl/WebQuery/wurpubs/326575
+
+???
+
+O MEA foi criado com o objetivo de entender as consequencias das mudanças no ecossisema para o bem estar humano, visando a qualidade de vida. Foi uma iniciativa de produção e compilação de informações com a participação de mais de 1360 colaboradores.
 
 ---
 class: top, left
@@ -151,6 +178,10 @@ class: top, center
 knitr::include_graphics("https://images.slideplayer.com/24/6937324/slides/slide_6.jpg")
 ```
 
+???
+
+Os serviços ecossistêmicos podem ser classificados de diferentes formas. O framework adotado pelo Millennium Ecosystem Assessment (MEA, 2005) e divide os serviços ecossistêmicos em quatro tipos: Serviços de provisão, serviços de regulação, serviços de suporte e serviços culturais. Os serviços de provisão são todos aqueles que provêm elementos utilizados pelo ser humano, como matérias primas, alimentos, água e medicamentos. Os serviços de regulação garantem a regulação climática, regulação de doenças e a purificação da água. Os serviços culturais, são aqueles relacionados com a contemplação da paisagem, com recreação, com inspiração artística e influências religiosas. Já os serviços de suporte, suportam todos os outros e são relacionados com a ciclagem de nutrientes, com a formação dos solos, dispersão de sementes e com a produtividade primária, por exemplo.
+
 ---
 class: top, left
 # Relação da natureza com o bem estar humano
@@ -158,6 +189,8 @@ class: top, left
 ```{r figureES, include=TRUE, echo=FALSE, out.width="78%", fig.align='center', fig.pos='bottom'}
 knitr::include_graphics("https://www.researchgate.net/publication/257744152/figure/fig3/AS:267815852703757@1440863683207/Millennium-ecosystem-assessment-MA-overview-diagram.png")
 ```
+
+
 
 ---
 class: top, center
