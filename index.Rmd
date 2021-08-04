@@ -72,7 +72,7 @@ class: top, center
 
 # Resgatando conceitos
 
-.left[
+pull-left[
 
 1. Ecosssitema;
 
@@ -85,11 +85,14 @@ class: top, center
 5. Propriedades emergentes.
 
 ]
- 
+
+pull-right[
 ```{r, include=TRUE, echo=FALSE, out.width="35%", fig.align='center'}
 knitr::include_graphics("https://static.todamateria.com.br/upload/fa/to/fatoresbioticoseabioticos.jpg")
 ```
-Simple matematical models with very complicated dynamics - Robert May (1976) - Nature
+]
+
+- Simple matematical models with very complicated dynamics - Robert May (1976) - Nature
 
 https://sci-hub.se/https://www.nature.com/articles/261459a0
 
@@ -169,9 +172,9 @@ class: top, center
 ]
 
 ```{r echo=FALSE, out.width="67%", fig.align='center'}
-knitr::include_graphics("https://images.slideplayer.com/24/6937324/slides/slide_6.jpg")
+knitr::include_graphics("https://www.xamanismo.com.br/wp-content/uploads/2019/11/GAIA-87-239x300.jpg")
 ```
-
+.center[Ilustração da deusa Gaia sustentando a vida humana.]
 ???
 
 Os chamados SERVIÇOS ECOSSISTÊMICOS são benefícios diretos e indiretos prestados ao ser humano pela natureza e são fundamentais para sobrevivência e cultura humana. Segundo o MEA (2005), os SE estão intimamente relacionados com o bem estar humano e com a qualidade de vida. 
