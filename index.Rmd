@@ -86,9 +86,12 @@ class: top, center
 
 ]
 
-```{r, include=TRUE, echo=FALSE, out.width="45%", fig.align='center'}
+```{r, include=TRUE, echo=FALSE, out.width="35%", fig.align='center'}
 knitr::include_graphics("https://static.todamateria.com.br/upload/fa/to/fatoresbioticoseabioticos.jpg")
 ```
+Simple matematical models with very complicated dynamics - Robert May (1976) - Nature
+
+https://sci-hub.se/https://www.nature.com/articles/261459a0
 
 ???
 
