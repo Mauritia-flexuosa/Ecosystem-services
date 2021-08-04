@@ -108,7 +108,7 @@ class: top, center
 
 ???
 
-O ser humano é um ser natural, ou seja, ele é um ser que faz parte da natureza. Assim como os outros animais, ele depende das condições e recursos naturais para sobreviver. Estas condições e recursos como água potável, comida, oxigênio, solos férteis, clima regulado, ciclos biogeoquímicos balanceados, etc, são as funções do ecossistema, frutos das interações. Os chamados SERVIÇOS ECOSSISTÊMICOS são benefícios diretos e indiretos prestados ao ser humano pela natureza e são fundamentais para sobrevivência e cultura humana. Segundo o MEA (2005), os SE estão intimamente relacionados com o bem estar humano e com a qualidade de vida. Há também grande discussão em relação ao termo serviços ambientais. Muitos autores costumam usar como sinônimo de serviços ecossistêmicos. Entretanto o MMA (2021) define serviços ambientais como ações por parte dos seres humanos para melhorar os serviços ecossitêmicos. É sempre bom atentar para definições.
+O ser humano é um ser natural, ou seja, ele é um ser que faz parte da natureza. Assim como os outros animais, ele depende das condições e recursos naturais para sobreviver. Estas condições e recursos como água potável, comida, oxigênio, solos férteis, clima regulado, ciclos biogeoquímicos balanceados, etc, são as funções do ecossistema, frutos das interações. 
 
 A ideia de SE surgiu na década de 1970, com o nome de serviços da natureza em um artigo publicado por Walter Westman, na Science, em 1977.
 
@@ -180,7 +180,8 @@ knitr::include_graphics("https://images.slideplayer.com/24/6937324/slides/slide_
 
 ???
 
-Os serviços ecossistêmicos podem ser classificados de diferentes formas. O framework adotado pelo Millennium Ecosystem Assessment (MEA, 2005) e divide os serviços ecossistêmicos em quatro tipos: Serviços de provisão, serviços de regulação, serviços de suporte e serviços culturais. Os serviços de provisão são todos aqueles que provêm elementos utilizados pelo ser humano, como matérias primas, alimentos, água e medicamentos. Os serviços de regulação garantem a regulação climática, regulação de doenças e a purificação da água. Os serviços culturais, são aqueles relacionados com a contemplação da paisagem, com recreação, com inspiração artística e influências religiosas. Já os serviços de suporte, suportam todos os outros e são relacionados com a ciclagem de nutrientes, com a formação dos solos, dispersão de sementes e com a produtividade primária, por exemplo.
+Os chamados SERVIÇOS ECOSSISTÊMICOS são benefícios diretos e indiretos prestados ao ser humano pela natureza e são fundamentais para sobrevivência e cultura humana. Segundo o MEA (2005), os SE estão intimamente relacionados com o bem estar humano e com a qualidade de vida. 
+
 
 ---
 class: top, left
@@ -189,7 +190,6 @@ class: top, left
 ```{r figureES, include=TRUE, echo=FALSE, out.width="78%", fig.align='center', fig.pos='bottom'}
 knitr::include_graphics("https://www.researchgate.net/publication/257744152/figure/fig3/AS:267815852703757@1440863683207/Millennium-ecosystem-assessment-MA-overview-diagram.png")
 ```
-
 
 
 ---
@@ -208,6 +208,10 @@ class: top, center
 <img width="32%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Alfred_Jacob_Miller_-_Hunting_Buffalo_-_Walters_371940190.jpg/1024px-Alfred_Jacob_Miller_-_Hunting_Buffalo_-_Walters_371940190.jpg"/>
 <img width="32%" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Bison_skull_pile-restored.jpg"/>
 <img width="23%" src="https://www.blogblog.com/1kt/watermark/body_background_navigator.png"/>
+
+???
+
+Há também grande discussão em relação ao termo serviços ambientais. Muitos autores costumam usar como sinônimo de serviços ecossistêmicos. Entretanto o MMA (2021) define serviços ambientais como ações por parte dos seres humanos para melhorar os serviços ecossitêmicos. É sempre bom atentar para definições.
 
 ---
 class: top, center
@@ -232,6 +236,12 @@ class: top, center
 <img width="32%" src="https://i1.wp.com/blog.observagastronomia.com.br/wp-content/uploads/2021/06/Captura-de-Tela-2021-06-25-as-11.21.51.png?resize=691%2C500"/>
 <img width="32%" src="https://publisher-publish.s3.eu-central-1.amazonaws.com/pb-brasil247/swp/jtjeq9/media/20180710140756_d0ea8ca8e15ac03c9eb453c72187003213c8d1694e2ea03683ab8e2e43777058.jpeg"/>
 
+???
+
+Os serviços ecossistêmicos podem ser classificados de diferentes formas. O framework adotado pelo Millennium Ecosystem Assessment (MEA, 2005) e divide os serviços ecossistêmicos em quatro tipos: Serviços de provisão, serviços de regulação, serviços de suporte e serviços culturais. 
+
+Os serviços de provisão são todos aqueles que provêm elementos utilizados pelo ser humano, como matérias primas, alimentos, água e medicamentos. 
+
 ---
 class: top, center
 
@@ -254,6 +264,10 @@ class: top, center
 <img width="30%" src="https://www.dicionarioinformal.com.br/image/b/1769.jpg"/>
 ]
 
+???
+
+ Os serviços culturais, são aqueles relacionados com a contemplação da paisagem, com recreação, com inspiração artística e influências religiosas. 
+
 ---
 class: top, center
 
@@ -273,6 +287,10 @@ class: top, center
 
 <img width="38%" src="http://s2.glbimg.com/IeH1XSroIm2nLkHJrsR2SRAJICw=/620x465/s.glbimg.com/jo/g1/f/original/2013/09/17/mangue_1.jpg"/>
 <img width="38%" src="http://3.bp.blogspot.com/-G0ymDasfxpQ/U0k5AiTxK8I/AAAAAAAAAMM/zSv_AnsjWeE/s1600/mangue+5.jpg"/>
+
+???
+
+Os serviços de regulação garantem a regulação climática, regulação de doenças e a purificação da água.
 
 ---
 class: top, center
@@ -294,6 +312,10 @@ class: top, center
 <img width="40%" src="https://www.coladaweb.com/wp-content/uploads/2017/09/20170906-polinizacao.jpg"/>
 <img width="45%" src="https://revistapesquisa.fapesp.br/wp-content/uploads/2019/11/018-029_capa-amazonia-1_285-5-1140px.jpg"/>
 
+???
+
+Já os serviços de suporte, suportam todos os outros e são relacionados com a ciclagem de nutrientes, com a formação dos solos, dispersão de sementes e com a produtividade primária, por exemplo. 
+
 ---
 class: top, center
 # IPBES - Plataforma intergovernamental para a biodiversidade e serviços ecossistêmicos
@@ -301,6 +323,11 @@ class: top, center
 - Criada em 2012 com a missão de estreitar a relação da ciência com as políticas de conservação da biodiversidade para o bem estar humano e desenvolvimento sustentável.
 
 <img width="62%" src="https://www.researchgate.net/profile/Kamaljit-Sangha-2/publication/320124552/figure/fig2/AS:544124478935040@1506740793951/PBES-conceptual-framework-Source-IPBES-2016-and-Diaz-et-al-2015-There-are-six-main.png"/>
+
+???
+
+Atualmente, na esteira do MEA e IPCC, o IPBES (Plataforma Intergovernamental para a Biodiversidade e Serviços ecossistêmicos) é uma iniciativa internacional para estreitar a relação da ciência com políticas para conservação da biodiversidade ligados com o bem estar humano. O IPBES busca entender a contribuição da natureza para as pessoas e a interação das pessoas com a natureza para coprodução de serviços e para a sustentabilidade do bem estar humano. Por exemplo, comunidades de pescadores são um bom exemplo de interação complexa entre seres humanos e a natureza que determinam o bem estar humano através de formas específicas de manejo, disponibilidade de recursos e regras e instituições que regulam o acesso e distribuição dos recursos. A incorporação do conhecimento local e/ou tradicional na coprodução dos benefícios prestados pela natureza são fundamentais para a sustentabilidade dos SE, uma vez que padrões e processos são específicos de cada local e as formas de manejo devem se adequar a este contexto.
+
 
 ---
 class: top, center
@@ -313,6 +340,10 @@ class: top, center
 
 <img width="62%" src="https://www.bpbes.net.br/wp-content/uploads/2017/08/logo-BPBES.png"/>
 
+???
+
+A plataforma brasileira para a biodiversidade e serviços ecossistêmicos é uma iniciativa brasileira que segue o framework proposto pelo IPBES com o intuito de diagnosticar a situação dos serviços ecossistêmicos e sua relação com o bem estar humano em âmbito nacional. Além disso, o BPBES orienta políticas de conservação baseadas nos relatórios e diagnósticos ancorados na ciência que têm a vantagem de diminuir as incertezas, o que aumenta a eficiência dos esforços de conservação, como por exemplo a aplicação de capital público.
+
 ---
 class: top, left
 
@@ -321,17 +352,23 @@ class: top, left
 - Valoração: Estimativa da importância de algo (Constanza et al, 2017);
 
 
-
 .center[
 <img width="40%" src="https://segredosdomundo.r7.com/wp-content/uploads/2020/11/diamante-conheca-8-dicas-de-como-diferenciar-um-verdadeiro-do-falso-1.jpg"/>
 <img width="40%" src="https://portalwp.s3.amazonaws.com/wp-content/uploads/20190219162129/shutterstock_109380863.jpg"/>
 
---
-
-<img width="40%" src="https://miro.medium.com/max/724/1*G_neB4Phd20qPdTYo2JmXA.jpeg"/>
-
 
 ]
+
+???
+
+Baseado na visão utilitarista, alguns estudos propõem a valoração dos serviços ecossistêmicos para auxiliar os tomadores de decisão.
+
+Valoração é a estimativa da importância de algo, mas nem sempre são baseadas em termos do capital. Imagine que você está caminhando no Cerrado em plena estação seca. O que vale mais, um copo d'água ou uma nota de 200 Reais?
+
+Entretanto alguns serviços são difíceis de valorar, pois muitos não têm valor de mercado. 
+
+ Há algumas abordagem para valorações desvinculadas do mercado do capital, como o Total Economic Value (TEV), que não necessariamente quantifica o valor total de um ecossistema, mas sim calcula o efeito das mudanças ambientais nos valores de uso e não uso para diferentes funções ecossistêmicas. Ele considera as escalas temporal e espacial e é muito caso-específico, não podendo ser generalizado.
+
 
 ---
 class: top, left
@@ -344,14 +381,16 @@ class: top, left
 .center[
 <img width="70%" src="https://maestrovirtuale.com/wp-content/uploads/2019/10/Ecosistema-min.jpg"/>]
 
+???
+
+Há ainda argumentos de que o objetivo da valoração é quantificar a importância na mudança dos ecossistemas para a provisão de serviços essenciais ao bem estar humano. Só que o valor de algo é, também, relativo à cultura de cada local.  
+
 ---
 class: top, left
 
 # Valoração dos serviços ecossistêmicos
 
 - Valor intrínseco: Valor que *independe da utilidade*;
-
-
 
 ---
 class: top, left
@@ -362,7 +401,14 @@ class: top, left
 
 - Dificuldade de valorar determinados serviços.
 
+.center[
+<img width="60%" src="https://miro.medium.com/max/724/1*G_neB4Phd20qPdTYo2JmXA.jpeg"/>]
 
+???
+
+A valoração em termos do capital ainda pode ofuscar o valor intrínseco da natureza que não pode ser trocado por nenhuma moeda, uma vez que não produz por ele mesmo o essencial à vida humana. Da mesma forma, outros são difíceis de quantificar, como serviços culturais e contemplativos.
+
+Ainda há muitos problemas a serem solucionados antes da valoração dos serviços ecossistêmicos. É preciso ter maior conhecimento das interações ecossistêmicas e de todos os elementos envolvidos para a emergência das suas funções. Além disso, o tamanho da área necessária para produzir e manter determinado serviço ecossistêmico é desconhecido. Se for valorar um ecossistema em termos de produtividade primária e biodiversidade, uma floresta tropical tem muito mais valor do que uma restinga. Entretanto, o papel da restinga na proteção costeira contra eventos extremos e erosão, no armazenamento de água, ciclagem de nutrientes e até na provisão de alimentos pode ser inestimável para o local. Dessa forma todos os ecossistemas são importantes e prestam serviços fundamentais para o ser humano de forma direta e indireta.
 
 ---
 class: top, center
@@ -379,6 +425,10 @@ knitr::include_graphics("img/coscieme_table.png")
 
 [Cutural ecosystem services: The inspirational value of ecosystems in popular music]("https://sci-hub.se/https://doi.org/10.1016/j.ecoser.2015.10.024")
 
+???
+
+A inspiração cultural ou artística, ou até mesmo, o simples uso contemplativo da paisagem dificilmente podem ser valorados. Estes desafios estimulam as mentes criativas a achar soluções, como neste artigo que eu trago para vocês (https://doi.org/10.1016/j.ecoser.2015.10.024). Neste artigo, o autor busca valorar o valor inspiracional dos diferentes ecossistemas por meio de plataforma de download de músicas. Primeiro, ele definiu palavras chave que identificam os diferentes tipos de ecossistemas e classificou as músicas por ecossistema. Então, ele analisou o valor de download de cada música e o número de downloads das músicas. Dessa forma, ele estimou o valor inspiracional de cada ecossistema. Claro que é uma estimativa, e pode ser melhorada, mas dá uma ideia do esforço neste tipo de valoração.
+
 ---
 class: top, left
 
@@ -393,6 +443,10 @@ class: top, left
 **Serviços ecossistêmicos:** benefícios relevantes para a sociedade gerados pelos ecossistemas, em termos de manutenção, recuperação ou melhoria das condições ambientais.
 
 **Pagamento por serviços ambientais:** transação de natureza voluntária, mediante a qual um *pagador de serviços ambientais* transfere a um provedor desses serviços recursos financeiros ou outra forma de remuneração, nas condições acertadas, respeitadas as disposições legais e regulamentares pertinentes
+
+???
+
+Os estudos de valoração ambiental têm o propósito de serem aplicados na conservação. Pagamentos por serviços ambientais são mecanismos de proteção ambiental que garantem a integridade dos ecossistemas para produção de serviços através do estímulo financeiro ao não-uso ou uso "sustentável". Existem, na verdade, diversas modalidades, entre elas a que o governo paga pela utilização de métodos menos danosos ao ambiente. Por exemplo, a partir da estimativa da produção potencial de determinada área a ser conservada, o produtor é ressarcido por não utilizá-la. Entretanto, outros termos também são utilizados como sinônimo, como "compensação" ou "retribuição", mas possuem aplicações diferentes. Compensação e retribuição remetem a ideia de pagar para usar. Um exemplo são os famosos créditos de carbono. Recentemente, a Lei nº 14.119, promulgada em 13 de janeiro de 2021, institui a Política Nacional de Pagamentos por Serviços Ambientais (PNPSA).
 
 ---
 class: top, center
@@ -411,6 +465,9 @@ class: top, center
 <img width="40%" src="https://brasil.un.org/sites/default/files/styles/featured_image/public/2020-01/enchente-e1578324722359.jpg?itok=pd82RNTi"/>
 <img width="40%" src="https://images2.portalon.com.br/wp-content/uploads/2020/06/2020-06-03_arborizacao_segura_2wwwitatibaspgovbrwwwitatibaspgovbr_thumb_medium555_0-1591280527.jpg"/>
 
+???
+
+Há ainda um conceito derivado dos serviços ecossistêmicos, que é o desserviço ecossistêmico. Ele foca em elementos ou processos naturais que, de alguma forma, prejudicam os seres humanos. Há diversos exemplos, como picadas de insetos, pragas que causam prejuízos, doenças, plantas urticantes, sucessão primária nas áreas urbanas e que gera custos de manutenção...enfim, inúmeros exemplos.
 
 ---
 class: top, center
@@ -423,6 +480,9 @@ class: top, center
 
 - Soluções Baseadas na Natureza (SBN) nas cidades brasileiras: https://www.bpbes.net.br/organizacoes-se-unem-para-estimular-uso-de-solucoes-baseadas-na-natureza-no-brasil/
 
+???
+
+Os outros animais, de uma geração para a outra, modificam quase nada suas formas de interagir com o ambiente. Modificações comportamentais podem ocorrer em escalas longas de tempo para se adaptar a mudanças graduais nas condições abióticas. Por outro lado, o ser humano incorpora em sua cultura conhecimentos científicos e tecnológicos que são passados de geração em geração. Sendo assim, há modificações constantes nas formas de manejar, extrair e utilizar os recursos naturais por parte do ser humano. Se não levarem em consideração os ciclos da natureza e sua capacidade de autoorganização, há séria ameaça à qualidade e quantidade de serviços ecossistêmicos disponíveis para as gerações futuras.
 
 ---
 # Atividade proposta I
@@ -464,3 +524,19 @@ and people: https://ipbes.net/sites/default/files/downloads/pdf/Diaz_et_al._2015
 
 - Millenium Ecosystem Assessment: https://www.millenniumassessment.org/en/index.html
 
+---
+
+Costanza, R. et al. The value of the world's ecosystem services and natural capital. Nature 387, 253-260 (1997).
+
+Daily, G. C. et al. Ecosystem services: Benefits supplied to human societies by natural ecosystems. Issues in Ecology 2, 1-18 (1997).
+
+MEA. Millennium Ecosystem Assessment: Ecosystems and Human Well-being: Synthesis. Washington, DC: Island Press, 2005.
+
+Wall, D. H. ed. Sustaining Biodiversity and Ecosystem Services in Soils and Sediments. SCOPE 64 Washington, DC: Island Press, 2004.
+
+https://www.sciencedirect.com/science/article/pii/S0959378010001172?casa_token=knqEYycmIygAAAAA:uDJSpaZVQBth6mMEiXQJ7hoIYWPU31fh2dBm_kADYriCVK69Rr0QeCZ7dnHwvErCQOxj3i-hhlI
+
+https://www.cell.com/current-biology/pdf/S0960-9822(05)01029-8.pdf
+
+https://doi.org/10.1016/j.ecoser.2015.10.024
+---
